@@ -18,6 +18,7 @@ public class EngineResult {
     }
 
     public EngineResult(String userId, Long treeId, Long nodeId, String nodeValue) {
+        this.isSuccess = true; // 走构造器就代表决策执行成功
         this.userId = userId;
         this.treeId = treeId;
         this.nodeId = nodeId;
