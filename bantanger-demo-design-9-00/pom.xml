@@ -9,15 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>bantanger-demo-design-3-01</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>com.bantanger</groupId>
-            <artifactId>bantanger-demo-design-3-00</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
+    <artifactId>bantanger-demo-design-9-00</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
