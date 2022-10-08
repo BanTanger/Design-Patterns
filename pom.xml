@@ -19,6 +19,7 @@
         <module>bantanger-demo-design-9-00</module>
         <module>bantanger-demo-design-9-01</module>
         <module>bantanger-demo-design-9-02</module>
+        <module>bantanger-demo-design-10-00</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
